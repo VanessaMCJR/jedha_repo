@@ -127,3 +127,6 @@ liste2.avg()
 
 liste2.mediane()
 
+
+print("J'ai modifié")
+
