@@ -130,3 +130,5 @@ liste2.mediane()
 
 print("J'ai modifié")
 
+print("c'est cool!") 
+
